@@ -43,8 +43,8 @@ Se han creado unos ficheros html (en el directorio /var/www/html) en ambas máqu
 
 En este ejemplo hemos creado un fichero *prueba* en la máquina SWAP02 conectados a través de ella de la siguiente forma:
 
-![creación fichero](img/creacionArchivo-ssh.jpg)
+![creación fichero](img/creacionArchivo-ssh.JPG)
 >Fichero creado conectado a través de ssh desde SWAP01
 
-![comprobación fichero creado](img/comprobacionArchivo.jpg)
+![comprobación fichero creado](img/comprobacionArchivo.JPG)
 >Se conecta directamente a la máquina SWAP02 para comprobar que efectivamente se ha creado el fichero
